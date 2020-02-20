@@ -1,7 +1,0 @@
- hi 
- we are creating the repository
-<<<<<<< HEAD
- bye
-=======
- heloooooooooooooooooooooooooooooo
->>>>>>> e0c4c3a9bf85c05bce90cbd8d19735a226599ad8
